@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "username": "abhijit lund",
+      "password": "lund@abhi.co",
+      "email": "lundbur",
+      "id": 1
+    },
+    {
+      "username": "abhijit lund",
+      "password": "lund@abhi.co",
+      "email": "lundbur",
+      "id": 2
+    },
+    {
+      "username": "user",
+      "password": "email",
+      "email": "123",
+      "id": 3
+    }
+  ]
+}
